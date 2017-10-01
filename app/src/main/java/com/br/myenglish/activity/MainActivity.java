@@ -155,5 +155,115 @@ public class MainActivity extends Activity {
                 "You’re mine. Mine, as I’m yours. And if we die, we die. All men must die, Jon Snow. But first we’ll live.",
                 "Ygritte"
         ));
+
+        phrases.add(new Phrase(
+                "Stay out of my territory.",
+                "Walter White"
+        ));
+
+        phrases.add(new Phrase(
+                "I’m in the empire business.",
+                "Walter White"
+        ));
+
+        phrases.add(new Phrase(
+                "Say my name.",
+                "Walter White"
+        ));
+
+        phrases.add(new Phrase(
+                "F*ck you and your eyebrows.",
+                "Walter White"
+        ));
+
+        phrases.add(new Phrase(
+                "This is not meth.",
+                "Walter White"
+        ));
+
+        phrases.add(new Phrase(
+                "I won",
+                "Walter White"
+        ));
+
+        phrases.add(new Phrase(
+                "We’re done when I say we’re done.",
+                "Walter White"
+        ));
+
+        phrases.add(new Phrase(
+                "I did it for me. I liked it. I was good at it. And I was really… I was alive.",
+                "Walter White"
+        ));
+
+        phrases.add(new Phrase(
+                "I am the one who knocks.",
+                "Walter White"
+        ));
+
+        phrases.add(new Phrase(
+                "Friends don't lie.",
+                "Eleven"
+        ));
+
+        phrases.add(new Phrase(
+                "Unfortunately, no one can be told what The Matrix is. You'll have to see it " +
+                        "for yourself.",
+                "Morpheus"
+        ));
+
+        phrases.add(new Phrase(
+                "Dodge this.",
+                "Trinity"
+        ));
+
+        phrases.add(new Phrase(
+                "Throughout human history, we have been dependent on machines to survive. Fate, it " +
+                        "seems, is not without a sense of irony.",
+                "Morpheus"
+        ));
+
+        phrases.add(new Phrase(
+                "What are you waiting for? You're faster than this. Don't think you are, " +
+                        "know you are. Come on. Stop trying to hit me and hit me.",
+                "Morpheus"
+        ));
+
+        phrases.add(new Phrase(
+                "I know why you're here, Neo. I know what you've been doing... why you hardly sleep," +
+                        " why you live alone, and why night after night, you sit by your computer. " +
+                        "You're looking for him. I know because I was once looking for the same " +
+                        "thing. And when he found me, he told me I wasn't really looking for him. " +
+                        "I was looking for an answer. It's the question that drives us, Neo. It's " +
+                        "the question that brought you here. You know the question, just as I did.",
+                "Trinity"
+        ));
+
+        phrases.add(new Phrase(
+                "You hear that, Mr. Anderson? That's the sound of inevitability, that's the sound " +
+                        "of your death, goodbye, Mr. Anderson",
+                "Agent Smith"
+        ));
+
+
+        phrases.add(new Phrase(
+                "You hear that, Mr. Anderson? That's the sound of inevitability, that's the sound " +
+                        "of your death, goodbye, Mr. Anderson",
+                "Agent Smith"
+        ));
+
+
+        phrases.add(new Phrase(
+                "I'd like to share a revelation that I've had during my time here. It came to me " +
+                        "when I tried to classify your species and I realized that you're not " +
+                        "actually mammals. Every mammal on this planet instinctively develops a" +
+                        " natural equilibrium with the surrounding environment but you humans do not. " +
+                        "You move to an area and you multiply and multiply until every natural" +
+                        " resource is consumed and the only way you can survive is to spread " +
+                        "to another area. There is another organism on this planet that follows " +
+                        "the same pattern. Do you know what it is? A virus. Human beings are a " +
+                        "disease, a cancer of this planet. You're a plague and we are the cure",
+                "Agent Smith"
+        ));
     }
 }
